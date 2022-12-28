@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 890,
       "createdAt": "2022-12-26T16:40:11.633Z"
+    },
+    {
+      "description": "Desenvolvimento de API",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-12-28T06:46:17.492Z",
+      "id": 4
+    },
+    {
+      "description": "Pizza",
+      "price": 25,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-12-28T06:59:22.437Z",
+      "id": 5
     }
   ]
 }
